@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616112578746",
+    "project_id": "fast-chat-f6401",
+    "storage_bucket": "fast-chat-f6401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616112578746:android:c3c2bfff652b1991b56283",
+        "android_client_info": {
+          "package_name": "com.BinodOP.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616112578746-qttsptg4i8squ1gl38jtfueojv6j10uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxtzFuCjwoRKSG4CJwvMxgq0hLIVRPG4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616112578746-qttsptg4i8squ1gl38jtfueojv6j10uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
